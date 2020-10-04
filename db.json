@@ -1,0 +1,63 @@
+{
+  "waterfall": [
+    {
+      "id": 1,
+      "provider": "f_provider",
+      "ecpm": 2.01,
+      "placement": "f_1"
+    },
+    {
+      "id": 2,
+      "provider": "a_provider",
+      "ecpm": 4.09,
+      "placement": "a_1"
+    },
+    {
+      "id": 3,
+      "provider": "m_provider",
+      "ecpm": 22.01,
+      "placement": "m_1"
+    },
+     {
+      "id": 4,
+      "provider": "i_provider",
+      "ecpm": 1.02,
+      "placement": "i_1"
+    },
+    {
+      "id": 5,
+      "provider": "f_provider",
+      "ecpm": 18.21,
+      "placement": "f_2"
+    },
+    {
+      "id": 6,
+      "provider": "u_provider",
+      "ecpm": 18.21,
+      "placement": "u_1"
+    },
+    {
+      "id": 7,
+      "provider": "c_provider",
+      "ecpm": 13.14,
+      "placement": "c_1"
+    },
+    {
+      "id": 8,
+      "provider": "a_provider",
+      "ecpm": 10.11,
+      "placement": "a_2"
+    },
+    {
+      "id": 9,
+      "provider": "f_provider",
+      "ecpm": 9.82,
+      "placement": "f_3"
+    },
+  ],
+  "rtb": {
+    "provider": "f_provider",
+     "ecpm": 17.52,
+     "placement": "f_rtb_4"
+  }
+}
